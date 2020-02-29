@@ -216,6 +216,7 @@ void Arith_Speed()
 	double t_atan = 0.0 ;
 	double t_cos = 0.0 ;
 	double t_sin = 0.0 ;
+	double OneCount = 0.0 ;
 
 	int Count_Mul = 0; 
 	int Count_Div = 0;
@@ -225,7 +226,9 @@ void Arith_Speed()
 	int Count_atan = 0 ;
 	int Count_cos = 0;
 	int Count_sin = 0;
-	ofstream fn;	
+	ofstream fn;
+
+	OneCount = OneCount_nano();
 	
 	LARGE_INTEGER StartingTime, EndingTime, Elapsednanoseconds;
 	LARGE_INTEGER Frequency;   	
