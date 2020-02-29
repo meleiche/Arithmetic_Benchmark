@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arithmetic_Bench", "Arithmetic_Bench\Arithmetic_Bench.vcxproj", "{CD8EAB7E-EE67-4732-AFDF-0E1A157D88BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8EAB7E-EE67-4732-AFDF-0E1A157D88BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CD8EAB7E-EE67-4732-AFDF-0E1A157D88BE}.Debug|Win32.Build.0 = Debug|Win32
+		{CD8EAB7E-EE67-4732-AFDF-0E1A157D88BE}.Release|Win32.ActiveCfg = Release|Win32
+		{CD8EAB7E-EE67-4732-AFDF-0E1A157D88BE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
