@@ -1,0 +1,30 @@
+********************************************************************
+              Math speed test  (Feb 2020)  
+
+********************************************************************
+              QueryPerformance function  
+
+********************************************************************
+OneCount equals   394.729882394178840000  nano seconds
+frequency equals  2533378.000000000000000000  Cycles per second
+********************************************************************
+processing time of 1000 operations of multiply  is 2763.000000000000000000  nano seconds
+processing time of 1000 operations of division  is 2368.000000000000000000  nano seconds
+processing time of 1000 operations of addition  is 2763.000000000000000000  nano seconds
+processing time of 1000 operations of substract is 2763.000000000000000000  nano seconds
+processing time of 1000 operations of SQRT      is 12236.000000000000000000  nano seconds
+processing time of 1000 operations of atan      is 52499.000000000000000000  nano seconds
+processing time of 1000 operations of cos       is 21315.000000000000000000  nano seconds
+processing time of 1000 operations of sin       is 22894.000000000000000000  nano seconds
+*******************************************************************
+Count_Mul multiply   is 7  Cycles
+Count_Div division   is 6  Cycles
+Count_Sub addition   is 7  Cycles
+Count_Add substract  is 7  Cycles
+Count_sqr SQRT       is 31  Cycles
+Count_ata atan       is 133  Cycles
+Count_sin cos        is 54  Cycles
+Count_cos sin        is 58  Cycles
+********************************************************************
+
+Frequency 2533378.000000000000000000
